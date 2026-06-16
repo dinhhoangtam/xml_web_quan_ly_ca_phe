@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <product>
+        <id>PRD20250101001</id>
+        <name>Cà phê Arabica Đà Lạt</name>
+        <price>150000</price>
+        <description>Cà phê Arabica nguyên chất từ cao nguyên Đà Lạt, hương vị thơm ngon, thanh thoát với độ chua nhẹ đặc trưng.</description>
+        <category>Cà phê rang xay</category>
+        <image>https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=500</image>
+        <stock>50</stock>
+        <created_at>2024-12-01 10:00:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101002</id>
+        <name>Cà phê Robusta Buôn Ma Thuột</name>
+        <price>120000</price>
+        <description>Cà phê Robusta đậm đà từ Buôn Ma Thuột, vị đắng mạnh mẽ, phù hợp với người yêu thích cà phê truyền thống.</description>
+        <category>Cà phê rang xay</category>
+        <image>https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500</image>
+        <stock>45</stock>
+        <created_at>2024-12-01 10:30:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101003</id>
+        <name>Cà phê Moka Cầu Đất</name>
+        <price>180000</price>
+        <description>Cà phê Moka cao cấp từ Cầu Đất, vị chua thanh nhẹ nhàng kết hợp với độ ngọt tự nhiên.</description>
+        <category>Cà phê rang xay</category>
+        <image>https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500</image>
+        <stock>30</stock>
+        <created_at>2024-12-01 11:00:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101004</id>
+        <name>Cà phê G7 3in1</name>
+        <price>85000</price>
+        <description>Cà phê hòa tan G7 3 trong 1, tiện lợi cho cuộc sống hiện đại, vị ngọt dịu hòa quyện cùng cà phê thơm.</description>
+        <category>Cà phê hòa tan</category>
+        <image>https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500</image>
+        <stock>100</stock>
+        <created_at>2024-12-01 11:30:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101005</id>
+        <name>Cà phê Espresso Italia</name>
+        <price>250000</price>
+        <description>Cà phê pha máy espresso cao cấp nhập khẩu từ Italia, đậm đà với lớp crema mịn màng.</description>
+        <category>Cà phê pha máy</category>
+        <image>https://images.unsplash.com/photo-1610889556528-9a770e32642f?w=500</image>
+        <stock>25</stock>
+        <created_at>2024-12-01 12:00:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101006</id>
+        <name>Cà phê phin truyền thống Sài Gòn</name>
+        <price>95000</price>
+        <description>Cà phê phin pha truyền thống kiểu Sài Gòn, đậm đà đắng đắng, thích hợp uống với sữa đặc.</description>
+        <category>Cà phê phin</category>
+        <image>https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=500</image>
+        <stock>60</stock>
+        <created_at>2024-12-01 12:30:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101007</id>
+        <name>Cà phê Cappuccino Latte</name>
+        <price>45000</price>
+        <description>Cappuccino latte hòa tan tiện lợi, vị ngọt béo của sữa kết hợp cà phê thơm lừng.</description>
+        <category>Cà phê hòa tan</category>
+        <image>https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=500</image>
+        <stock>80</stock>
+        <created_at>2024-12-01 13:00:00</created_at>
+    </product>
+    <product>
+        <id>PRD20250101008</id>
+        <name>Cà phê Arabica Ethiopia</name>
+        <price>320000</price>
+        <description>Cà phê Arabica nguyên bản từ Ethiopia - quê hương của cà phê, hương hoa quả độc đáo.</description>
+        <category>Cà phê rang xay</category>
+        <image>https://images.unsplash.com/photo-1559496417-e7f25c2e3bb4?w=500</image>
+        <stock>15</stock>
+        <created_at>2024-12-01 13:30:00</created_at>
+    </product>
+</root>

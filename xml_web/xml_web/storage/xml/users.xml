@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <user>
+        <id>USR20250101001</id>
+        <n>Admin Coffee</n>
+        <email>admin</email>
+        <password>$2y$10$YourHashForPassword1Here.AbCdEfGhIjKlMnOpQrStUvWxYz0123456</password>
+        <phone>0123456789</phone>
+        <address>Cà Mau, Việt Nam</address>
+        <role>admin</role>
+        <created_at>2024-12-01 10:00:00</created_at>
+    </user>
+    <user>
+        <id>USR20250101002</id>
+        <n>Nguyễn Văn User</n>
+        <email>user</email>
+        <password>$2y$10$YourHashForPassword1Here.AbCdEfGhIjKlMnOpQrStUvWxYz0123456</password>
+        <phone>0987654321</phone>
+        <address>123 Đường ABC, Quận 1, TP.HCM</address>
+        <role>user</role>
+        <created_at>2024-12-01 11:00:00</created_at>
+    </user>
+</root>
